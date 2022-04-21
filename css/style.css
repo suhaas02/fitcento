@@ -231,6 +231,8 @@ button {
 .menu_text {
     width: 100%;
     float: left;
+    position: relative;
+    top: 12px;
 }
 
 .menu_text ul {
