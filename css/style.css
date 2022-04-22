@@ -216,7 +216,8 @@ button {
 .header_section {
     width: 100%;
     float: left;
-    background-color: #03164c;
+    background-color: #808592; 
+    /* #03164c */
     height: auto;
     padding-top: 27px;
     padding-bottom: 5px;
@@ -330,7 +331,7 @@ button {
 	float: left;
 	font-weight: bold;
 	font-size: 46px;
-	color: #03164c;
+	color: #808592;
 	padding: 10px 30px;
 	text-align: center;
 }
@@ -352,7 +353,7 @@ button {
 .contact_bt {
     width: 20%;
     margin: 0 auto;
-    background-color: #03164c;
+    background-color: #808592;
     padding: 10px 0px;
     color: #fffcf4;
     text-align: center;
@@ -378,7 +379,7 @@ button {
     position: absolute;
     left: 5%;
     top: 390px;
-    background-color: #03164c;
+    background-color: #808592;
 }
 
 .carousel-control-next-icon {
@@ -846,7 +847,7 @@ button {
 .footer_section {
     width: 100%;
     float: left;
-    background-color: #041445;
+    background-color: #808592;
     height: auto;
 }
 
